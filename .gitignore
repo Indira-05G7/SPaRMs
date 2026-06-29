@@ -1,0 +1,16 @@
+# Compiled Java files
+bin/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Database backups
+sparms_db_backup.sql
+
+# Ignore config with passwords
+config.properties
+
+# Logs
+*.log
